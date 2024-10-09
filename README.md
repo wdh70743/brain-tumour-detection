@@ -30,7 +30,7 @@ The user interface allows users to upload MRI scans, set the desired confidence 
 
 Here is an example of the brain tumour detection in action:
 
-### Original Image:
+### Result:
 ![Result](example.png)
 
 ## Installation
