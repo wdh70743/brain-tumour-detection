@@ -6,6 +6,7 @@ This project implements a brain tumor detection system using a YOLOv11 large mod
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Example](#example)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Details](#model-details)
@@ -24,6 +25,13 @@ The user interface allows users to upload MRI scans, set the desired confidence 
 - **Interactive User Interface**: Built with `Streamlit`, the app provides a simple interface to upload MRI images and visualize detection results.
 - **Configurable Confidence Levels**: Allows users to set the desired confidence level for the tumor detection results.
 - **Side-by-Side Image Comparison**: Displays the original MRI scan and the image with detected tumor cells.
+
+## Example
+
+Here is an example of the brain tumour detection in action:
+
+### Original Image:
+![Result](example.png)
 
 ## Installation
 
