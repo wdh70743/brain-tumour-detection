@@ -29,7 +29,7 @@ The user interface allows users to upload MRI scans, set the desired confidence 
 
 ### Prerequisites
 
-Ensure you have Python 3.7 or above installed on your system.
+Ensure you have Python 3.10 or above installed on your system.
 
 ### Steps
 
